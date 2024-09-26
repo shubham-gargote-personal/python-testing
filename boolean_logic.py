@@ -14,3 +14,4 @@ print (a == 3 or b == 5) # one of the condition needs to be true
 
 print(a == 3 and b == 5 or b == 4)
 
+print("s")
